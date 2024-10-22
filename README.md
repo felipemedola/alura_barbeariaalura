@@ -2,8 +2,6 @@
 
 ![](https://raw.githubusercontent.com/hyanguimaraes/Site_-_Barbearia_Alura/main/Barbearia_alura_img_readme/Babearia_Alura_Desktop_home.gif#vitrinedev)
 
-![](https://img.shields.io/github/forks/hyanguimaraes/Site_-_Barbearia_Alura?style=social) ![](https://img.shields.io/github/last-commit/hyanguimaraes/Site_-_Barbearia_Alura?style=plastic)
-
 📝 Descrição do projeto
 ---
 Site completo de uma barbearia fictícia criado durante 04 cursos voltados para HTML e CSS que fazem parte da Formação Programador Iniciante da Alura. Nestes cursos aprendi a criar esse site **completo e responsivo** com três páginas em versões desktop e mobile, sendo elas:
